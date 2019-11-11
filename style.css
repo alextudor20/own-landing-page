@@ -1,0 +1,30 @@
+body,
+html {
+	background: url(header.jpg) no-repeat center center fixed; 
+   	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.buffer {
+	height: 2rem;
+}
+
+.buffer2 {
+	height: 5rem;
+}
+
+.buffer3 {
+	height: 4rem;
+}
+
+
+.btn-xl {
+	padding: 1rem 2rem;
+}
